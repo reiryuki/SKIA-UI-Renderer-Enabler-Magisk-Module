@@ -1,0 +1,8 @@
+id=SKIAUIRenderer
+name=SKIA UI Renderer Enabler
+version=v0.1
+versionCode=1
+author=Rei Ryuki the Fixer
+description=Enabler changes debug.hwui.renderer to skiavk if device hardware supports vulkan or changes to skiagl if it doesn't support vulkan. Disabler changes it back to vulkan or opengl.
+
+
