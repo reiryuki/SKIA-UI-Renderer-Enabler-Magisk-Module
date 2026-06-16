@@ -5,11 +5,19 @@
 - Disabler changes debug.hwui.renderer back to vulkan or opengl. (READ the Optionals bellow!)
 - What is SKIA? Read here: https://skia.org
 
+## Changelog
+
+v0.1
+- Initial release
+
+v0.2
+- Fix wrong detection
+
 ## Requirements
-- Magisk/KernelSU/Apatch/Kitsune Mask installed
+Magisk/KernelSU/Apatch/Kitsune Mask installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p/2286108/ via Magisk/KernelSU/Apatch/Kitsune Mask app or Recovery if Magisk/Kitsune Mask installed.
+- Install this module via Magisk/KernelSU/Apatch/Kitsune Mask app or Recovery if Magisk/Kitsune Mask installed.
 - You don't need to reboot if installing via app because it applies immediately at installation, but keep this module installed to apply it in every device boot.
 
 ## Optionals
@@ -17,7 +25,7 @@
 - Global: https://t.me/ryukinotes/35
 
 ## Troubleshootings
-- Global: https://t.me/ryukinotes/34
+Global: https://t.me/ryukinotes/34
 
 ## Support & Bug Report
 - https://t.me/ryukinotes/54
@@ -28,6 +36,6 @@
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/ryukinotes/25
+https://t.me/ryukinotes/25
 
 
