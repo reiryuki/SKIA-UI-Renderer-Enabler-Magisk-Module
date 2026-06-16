@@ -55,6 +55,7 @@ ui_print " "
 # cleaning
 ui_print "- Cleaning..."
 remove_sepolicy_rule
+rm -rf $MODPATH/image
 ui_print " "
 
 # mode
