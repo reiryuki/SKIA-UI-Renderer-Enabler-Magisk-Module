@@ -7,11 +7,11 @@
 
 ## Changelog
 
-v0.1
-- Initial release
-
 v0.2
 - Fix wrong detection
+
+v0.1
+- Initial release
 
 ## Requirements
 Magisk/KernelSU/Apatch/Kitsune Mask installed
